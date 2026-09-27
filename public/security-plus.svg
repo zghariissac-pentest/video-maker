@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="200" y2="200">
+      <stop offset="0%" stop-color="#1a5276"/>
+      <stop offset="100%" stop-color="#2e86c1"/>
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" rx="30" fill="url(#bg)"/>
+  <text x="100" y="75" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-weight="900" font-size="28">COMPTIA</text>
+  <text x="100" y="115" text-anchor="middle" fill="#f1c40f" font-family="Arial,sans-serif" font-weight="900" font-size="36">SECURITY+</text>
+  <rect x="40" y="135" width="120" height="3" rx="1.5" fill="#f1c40f" opacity="0.5"/>
+  <text x="100" y="160" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-weight="400" font-size="14" opacity="0.7">SY0-701</text>
+</svg>

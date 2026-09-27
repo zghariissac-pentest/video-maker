@@ -1,0 +1,24 @@
+# deps
+node_modules/
+
+# renders (reproduced from source, too big to commit)
+out/
+*.mp4
+*.mov
+*.m4a
+*.webm
+
+# generated previews / caches
+thumbnails/
+.remotion/
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# env / secrets — never commit tokens
+.env
+.env.*
