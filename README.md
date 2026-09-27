@@ -1,5 +1,7 @@
 # video-maker
 
+> **New here? Recommended:** if you don't know how to use this project, just use [opencode](https://opencode.ai) prompts — describe the video you want (hook text, pictures, scenes, animations) in plain words and let it build the Remotion composition for you. No Remotion knowledge needed.
+
 Remotion (React + TypeScript) project for producing **vertical 1080×1920 cybersecurity explainer videos** — Arabic/Darija hooks, black-studio style, per-word caption springs, icon/diagram motion scenes. Renders go straight into a DaVinci Resolve timeline.
 
 ~118 compositions live in `src/Root.tsx` (hooks, CTF/pwn walkthroughs, VPN/lab comparisons, Linux-distro explainers, PC-buying guides…).
